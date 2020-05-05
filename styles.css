@@ -1,0 +1,12 @@
+body{
+    font-family: Helvetica;
+}
+
+main section{
+    display: block;
+    border: 10px solid #002fa7;
+}
+
+links a{
+    text-decoration: none;
+}
