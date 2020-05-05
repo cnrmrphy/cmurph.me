@@ -1,2 +1,2 @@
 # cmurph.me
-files for my personal website
+files for [my personal website](https://www.cmurph.me)
