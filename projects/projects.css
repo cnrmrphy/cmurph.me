@@ -32,10 +32,18 @@ main{
 nav{
     text-align: center;
     border-bottom: 4px solid black;
+    display: flex;
 }
 
 nav p{
     text-transform: uppercase;
+    flex-basis: 40%;
+    border-right: 4px solid black;
+}
+
+#focus-header{
+    flex-basis: 60%;
+    border-right: none;
 }
 
 
@@ -50,6 +58,7 @@ nav p{
 #name{
     text-transform: uppercase;
     font-size: 2em;
+    color: #003acc;
 }
 
 
