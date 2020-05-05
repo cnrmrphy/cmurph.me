@@ -41,7 +41,7 @@ nav p{
 
 /* aboutme selectors */
 #aboutme{
-    flex-basis: 75%;
+    flex-basis: 40%;
     text-justify: auto;
     padding: 20px;
     border-right: 4px solid black;
@@ -55,32 +55,8 @@ nav p{
 
 /* sidebar selectors */
 #sidebar{
-    flex-basis: 25%;
+    flex-basis: 60%;
     text-align: left;
-    display: flex;
-    flex-direction: column;
 }
 
-#top{
-    flex-basis: 33%;
-}
-
-#top p{
-    padding: 20px;
-}
-
-#bottom{
-    padding: 20px;
-    flex-grow: 1;
-    border-top: 4px solid black;
-}
-
-#bottom a{
-    text-decoration: none;
-    color: black;
-}
-
-#bottom a:hover{
-    opacity: 0.75;
-}
 
