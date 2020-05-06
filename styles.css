@@ -85,3 +85,19 @@ nav p{
     opacity: 0.75;
 }
 
+/* mobile behavior */
+
+@media only screen and (max-width:480px){
+    main{
+        flex-direction: column;
+    }
+    #aboutme{
+        flex-basis: 40%;
+        border-right: none;
+        border-bottom: 4px solid black;
+    }
+    #sidebar{
+        flex-basis: none;
+        flex-grow: 1;
+    }
+}
