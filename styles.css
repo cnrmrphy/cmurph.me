@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-size: 18px;
 }
 a{
     text-decoration: none;
@@ -87,7 +88,7 @@ nav p{
 
 /* mobile behavior */
 
-@media only screen and (max-width:480px){
+@media only screen and (max-width:500px){
     main{
         flex-direction: column;
     }
