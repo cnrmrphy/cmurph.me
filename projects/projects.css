@@ -92,9 +92,10 @@ nav p{
 .post h2{
     font-size: 1.25em;
 }
-
-blockquote{
+.post p{
     margin: 10px 0 10px 10px;
+}
+blockquote{
     font-style: italic;
 }
 

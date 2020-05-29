@@ -100,8 +100,6 @@ nav p{
     }
     #aboutme{
         flex-basis: 40%;
-        border-right: none;
-        border-bottom: 4px solid black;
     }
     #sidebar{
         flex-basis: none;

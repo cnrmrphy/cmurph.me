@@ -2,12 +2,12 @@
 > 29 April 2020
 
 ## Overview 
-content content
+>Final project for [Notre Dame CSE 20289 Spring 2020](https://www3.nd.edu/~pbui/teaching/cse.20289.sp20)
+
+Group project completed with [Dane Williams](https://github.com/danerwilliams)
 
 ## Description
  
 content content 
 
-### Source code 
-source code for the project can be found at the following github repo [github.com/cnrmrphy/crossreference](https://github.com/cnrmrphy/crossreference)
 

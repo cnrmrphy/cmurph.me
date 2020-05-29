@@ -9,5 +9,5 @@ content content
 content content 
 
 ### Source code 
-source code for the project can be found at the following github repo [github.com/cnrmrphy/crossreference](https://github.com/cnrmrphy/crossreference)
+Link to the project repo: [github.com/cnrmrphy/crossreference](https://github.com/cnrmrphy/crossreference)
 
