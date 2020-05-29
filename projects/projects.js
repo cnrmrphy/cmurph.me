@@ -45,7 +45,7 @@ function parseBrowseRequest (response){
 
     for(post of blogPosts){
         var article = converter.makeHtml(post.post);
-        console.log(article);
+        // console.log(article);
         document.getElementById('blog').innerHTML += '<div class="post">' + article + '</div>';
     }
 }
