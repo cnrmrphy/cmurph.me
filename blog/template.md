@@ -4,7 +4,7 @@ Date (27 May 2020)
 ## Overview (Brief description and why I wanted to do the project)
 content content
 
-## Technicals (High-level explanation of key technical concepts associated with the project)
+## Description (High-level explanation of key technical concepts associated with the project)
 content content 
 
 ### Source code 

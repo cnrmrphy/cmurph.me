@@ -21,6 +21,7 @@ body{
     flex-direction: column;
     border-top: 4px solid black;
     border-left: 4px solid black;
+    /* overflow-y: scroll; */
 }
 
 main{
@@ -28,12 +29,16 @@ main{
     flex-wrap: wrap;
     flex-basis: 95%;
     flex-grow: 1;
+    overflow-y:hidden;
+    /* position: sticky; */
+    /* margin-bottom: 0.01px; */
 }
 
 /*navbar*/
 nav{
     text-align: center;
     display: flex;
+    /* position: sticky; */
 }
 
 nav p{
@@ -55,6 +60,9 @@ nav p{
     padding: 20px;
     border-bottom: 4px solid black;
     border-right: 4px solid black;
+    /* position: sticky; */
+    /* height: 100vh; */
+    /* top: 0; */
 }
 
 #name{
@@ -70,10 +78,23 @@ nav p{
     text-align: left;
     border-bottom: 4px solid black;
     border-right: 4px solid black;
+    height: 100%;
+    overflow:scroll;
+}
+
+.post{
+    padding: 20px;
+}
+
+.post h1{
+    font-size: 1.5em;
+}
+.post h2{
+    font-size: 1.25em;
 }
 
 blockquote{
-    padding: 10px 0 10px 10px;
+    margin: 10px 0 10px 10px;
     font-style: italic;
 }
 
