@@ -21,7 +21,6 @@ body{
     flex-direction: column;
     border-top: 4px solid black;
     border-left: 4px solid black;
-    /* overflow-y: scroll; */
 }
 
 main{
@@ -30,15 +29,12 @@ main{
     flex-basis: 95%;
     flex-grow: 1;
     overflow-y:hidden;
-    /* position: sticky; */
-    /* margin-bottom: 0.01px; */
 }
 
 /*navbar*/
 nav{
     text-align: center;
     display: flex;
-    /* position: sticky; */
 }
 
 nav p{
@@ -60,9 +56,6 @@ nav p{
     padding: 20px;
     border-bottom: 4px solid black;
     border-right: 4px solid black;
-    /* position: sticky; */
-    /* height: 100vh; */
-    /* top: 0; */
 }
 
 #name{
@@ -102,6 +95,10 @@ blockquote{
 
 /* mobile behavior */
 @media only screen and (min-device-width: 320px) and (max-device-width:480px){
+    body {
+        width: 100%;
+        height: 100%;
+    }
     main{
         display: block;
     }
