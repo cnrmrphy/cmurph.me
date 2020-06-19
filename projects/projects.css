@@ -88,6 +88,10 @@ nav p{
 .post p{
     margin: 10px 0 10px 10px;
 }
+.post a{
+    text-decoration: underline;
+    text-decoration-color: #003acc;
+}
 blockquote{
     font-style: italic;
 }
